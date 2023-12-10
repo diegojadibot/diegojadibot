@@ -11,14 +11,14 @@ href="https://www.facebook.com/profile.php?id=100087508301537&mibextid=ZbWKwL">
 <img src="https://camo.githubusercontent.com/ae6594bda35eeeb6f0198da7161b076dec9cdbfebdb8ad4372ae1d3f54aba461/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d686561646572" height=",70px"> 
 </p>
 
-<a href="https://github.com/Wilsmac"><img src="https://cardivo.vercel.app/api?name=Wilsmac&description=hola,%20Soy%20Wilsmac,%20gracias%20por%20visitar.%20♥︎%20𝐼%20𝐿𝑂𝑉𝐸%20𝑌𝑂𝑈%20𝐹𝑂𝑅𝐸𝑉𝐸𝑅%20🌹&image=https://telegra.ph/file/a5e1e8e34c2478e1b5840.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=cmwilmer4&github=Wilsmac&pattern=leaf&colorPattern=%23eaeaea" /><a>  
+<a href="https://github.com/diegojadibot"><img src="https://cardivo.vercel.app/api?name=Wilsmac&description=hola,%20Soy%20Wilsmac,%20gracias%20por%20visitar.%20♥︎%20𝐼%20𝐿𝑂𝑉𝐸%20𝑌𝑂𝑈%20𝐹𝑂𝑅𝐸𝑉𝐸𝑅%20🌹&image=https://telegra.ph/file/a5e1e8e34c2478e1b5840.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=cmwilmer4&github=Wilsmac&pattern=leaf&colorPattern=%23eaeaea" /><a>  
 - 🤩 I’am Wilsmac }= OFC {
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=𝑾𝒊𝒍𝒔𝒎𝒂𝒄♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻𝙐𝙉𝙄𝙁𝙄𝙉𝙀𝘿』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
+<a href="https://github.com/dieg9jadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=Diegk♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻Diego』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
 </p>
 
-[![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmwilmer4?igshid=ZDdkNTZiNTM%3D">
+[![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmdiego03?igshid=ZDdkNTZiNTM%3D">
 <img src="https://img.shields.io/badge/mi-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
 </p>
@@ -26,7 +26,7 @@ href="https://www.facebook.com/profile.php?id=100087508301537&mibextid=ZbWKwL">
 <p align="center"><img src="https://profile-counter.glitch.me/{Wilsmac}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
 
 <!---
-Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+diegojadibot/diegojadibot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -65,14 +65,15 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
-<a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
+<a href="https://github.com/diegojadibot"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
 
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
 ### `mis proyectos`
-<a href="https://github.com/Wilsmac/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=Fenix-Bot-CD&theme=merko)</a>
-<a href="https://github.com/Wilsmac/FantasyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD&theme=merko)</a>
+<a href="https://github.com/diegojadibot/TwichBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=TwichBor-MD&theme=merko)</a>
 
 ### `colaboró en:`
+
+<a href="https://github.com/Wilsmac/FantasyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD&theme=merko)</a>
 
 <a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=dark)</a>
 
