@@ -1,7 +1,7 @@
 <h2 align="center"> MI PERFIL </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-  <a href="https://github.com/diegojadibot"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_dev&youtube=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>  
+  <a href="https://github.com/diegojadibot"><img src="https://cardivo.vercel.app/api?name=diego&description=Hola,%20soy%20diego&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_dev&youtube=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>  
 
 <h3 align="center"> MI INFO </h3>
 <p align="center">
@@ -29,7 +29,7 @@
 </details> 
 
 <!--
-**diegojadibot/diegojafibot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diegojadibot/diegojadibot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
