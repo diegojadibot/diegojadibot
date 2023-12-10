@@ -75,8 +75,6 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 <a href="https://github.com/Wilsmac/FantasyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD&theme=merko)</a>
 
-href="https://github.com/FG98F/senna-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=FG98F&repo=senna-Bot&theme=merko)</a>
-
 <a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=dark)</a>
 
 <a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="50px"></a>
