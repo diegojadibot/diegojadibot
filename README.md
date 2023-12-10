@@ -65,11 +65,11 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
-<a href="https://github.com/diegojadibot"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
+<a href="https://github.com/diegojadibot"><img src="https://github.com/diegojadibot.png" width="250" height="250" alt="diegojadibot"/></a>
 
-`❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
+`❥︎DIEGO_𝑮𝑫シ︎♥︎`
 ### `mis proyectos`
-<a href="https://github.com/diegojadibot/TwichBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=TwichBor-MD&theme=merko)</a>
+<a href="https://github.com/diegojadibot/TwichBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=TwichBot-MD&theme=merko)</a>
 
 ### `colaboró en:`
 
