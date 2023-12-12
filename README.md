@@ -71,6 +71,9 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 ### `mis proyectos`
 <a href="https://github.com/diegojadibot/TwichBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=TwichBot-MD&theme=merko)</a>
 
+<a href="https://github.com/diegojadibot/GatitoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=GatitoBot-MD&theme=merko)</a>
+
+
 ### `colaboró en:`
 
 <a href="https://github.com/Wilsmac/FantasyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD&theme=merko)</a>
