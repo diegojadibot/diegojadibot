@@ -75,6 +75,9 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 <a href="https://github.com/diegojadibot/GatitoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=GatitoBot-MD&theme=merko)</a>
 
+<a href="https://github.com/diegojadibot/FluxusBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=FluxusBot-MD&theme=merko)</a>
+
+
 
 ### `colaboró en:`
 
