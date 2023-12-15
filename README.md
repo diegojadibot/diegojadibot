@@ -15,7 +15,7 @@ href="https://www.facebook.com/diegoadsarmiento">
 - 🤩 I’am Diego }= OFC {
 
 <p align="center"> 
-<a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=Diegk♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻Diego』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
+<a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=Diego♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻Diego』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
 </p>
 
 [![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmdiego03?igshid=ZDdkNTZiNTM%3D">
@@ -72,9 +72,6 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://github.com/diegojadibot/TwichBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=TwichBot-MD&theme=merko)</a>
 
 <a href="https://github.com/diegojadibot/OnyxBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=OnyxBot-MD&theme=merko)</a>
-
-<a href="https://github.com/diegojadibot/GatitoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=GatitoBot-MD&theme=merko)</a>
-
 
 ### `Proyectos De Colaboracion:`
 
