@@ -1,88 +1,44 @@
-```ts
-function from 'put0'
-await import 'gay'
-```
-<a
-href="https://api.whatsapp.com/send/?phone=573013114854&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
-<a 
-href="https://www.facebook.com/diegoadsarmiento">
-<img src="https://img.shields.io/badge/mi%20Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue">
-</a>
-<img src="https://camo.githubusercontent.com/ae6594bda35eeeb6f0198da7161b076dec9cdbfebdb8ad4372ae1d3f54aba461/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d686561646572" height=",70px"> 
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
-<a href="https://github.com/diegojadibot"><img src="https://cardivo.vercel.app/api?name=diegoajdibot&description=hola,%20Soy%20Diego,%20gracias%20por%20visitar.%20♥︎%20𝐼%20𝐿𝑂𝑉𝐸%20𝑌𝑂𝑈%20𝐹𝑂𝑅𝐸𝑉𝐸𝑅%20🌹&image=https://telegra.ph/file/a5e1e8e34c2478e1b5840.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=cmwilmer4&github=Wilsmac&pattern=leaf&colorPattern=%23eaeaea" /><a>  
-- 🤩 I’am Diego }= OFC {
+## ¡Hola! 😸 Bienvenido Te Presento Mi Perfil ✨
+> "El Dolor, Es Dificil De Ocultar."
+### ***❤️ Espero te encuentres bien 🌸***
+### 🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
+> Si desea contactarme lo puede hacer sólo por Instagram
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
+  
+<a href="https://instagram.com/sakura_bot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+<a href="https://www.youtube.com/@diegobot09" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
+<a href="mailto:argumedodie@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<a href="https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76"/>
+<img src="https://img.shields.io/badge/🐈_Sakura_𝘚𝘰𝘤𝘪𝘢𝘭_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-<p align="center"> 
-<a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=Diego♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻Diego』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
-</p>
-
-[![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmdiego03?igshid=ZDdkNTZiNTM%3D">
-<img src="https://img.shields.io/badge/mi-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
-</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Wilsmac}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
-
-<!---
-diegojadibot/diegojadibot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<img 
-src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
-
-### `📊 my stats`
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=radical&border=000000ED) 
-
-![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsmac&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5) 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
+<div align="center">
+<a href="https://github.com/diegojadibot/">
+<img src="https://github-readme-stats.vercel.app/api?username=diegojadibot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegojadibot&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="GataNina-Li"/>
+<br><br>
+</a>
 
-> <h1 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos :octocat: </h1>
-<div align="left"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-
- <p>
-<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
-   <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
- <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
-       <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
-
-### 💻 `Software y herramientas` 🌟
-<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="24"></a>
- <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24"></a>
-<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="24"></a>
-
-
-
- </p>
-
-
-## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
-<a href="https://github.com/diegojadibot"><img src="https://github.com/diegojadibot.png" width="250" height="250" alt="diegojadibot"/></a>
-
-`❥︎DIEGO_𝑮𝑫シ︎♥︎`
-### `Mis Protectos`
 <a href="https://github.com/diegojadibot/SakuraBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBot-MD&theme=merko)</a>
 
-### `Proyectos De Colaboracion:`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
-<a href="https://github.com/Wilsmac/FantasyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD&theme=merko)</a>
+<a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=merko)</a>
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=omni)</a>
+<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=jolly)</a>
+<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=merko)</a>
+<a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=omni)</a>
+<a href="https://github.com/ReyEndymion/ANI_MX_SCANS-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ReyEndymion&repo=ANI_MX_SCANS-MD&theme=jolly)</a>
+<a href="https://github.com/OFC-YOVANI/HADES-BOT-OMEGA">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OFC-YOVANI&repo=HADES-BOT-OMEGA&theme=merko)</a>
+<a href="https://github.com/Yesenia57/NeKoTinaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Yesenia57&repo=NeKoTinaBot-MD&theme=omni)</a>
 
-<a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=dark)</a>
-
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=dark)</a>
-
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=dark)</a>
-
-<a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="50px"></a>
-------------------
-
-<img src="https://camo.githubusercontent.com/b9ce572578ce01213bcad5bb5927bdd6cb54f27b66c33e8251c28ba3583419dc/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d666f6f746572" height=",,70px">
-</p>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
