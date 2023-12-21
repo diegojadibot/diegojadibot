@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
-## ¡Hola! 😸 Bienvenido Te Presento Mi Perfil ✨
+## ¡Hola! 😸 Bienvenido Te Presento Mi Repositorio Oficial✨
 > "El Dolor, Es Dificil De Ocultar."
-### ***❤️ Espero te encuentres bien 🌸***
+### ***❤️ Espero te encuentres bien 🦁***
 ### 🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
 > Si desea contactarme lo puede hacer sólo por Instagram
 <div align="center">
@@ -14,15 +14,15 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-<a href="https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76"/>
-<img src="https://img.shields.io/badge/🐈_Sakura_𝘚𝘰𝘤𝘪𝘢𝘭_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://chat.whatsapp.com/C2GZ2Jyh0gSI1v7CLM5yQ7"/>
+<img src="https://img.shields.io/badge/🐈_Sakura_Oficial_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
 <div align="center">
 <a href="https://github.com/diegojadibot/">
 <img src="https://github-readme-stats.vercel.app/api?username=diegojadibot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegojadibot&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="GataNina-Li"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegojadibot&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="diegojadibot"/>
 <br><br>
 </a>
 
