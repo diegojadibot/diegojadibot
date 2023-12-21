@@ -69,9 +69,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 `❥︎DIEGO_𝑮𝑫シ︎♥︎`
 ### `Mis Protectos`
-<a href="https://github.com/diegojadibot/TwichBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=TwichBot-MD&theme=merko)</a>
-
-<a href="https://github.com/diegojadibot/OnyxBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=OnyxBot-MD&theme=merko)</a>
+<a href="https://github.com/diegojadibot/SakuraBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBot-MD&theme=merko)</a>
 
 ### `Proyectos De Colaboracion:`
 
