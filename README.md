@@ -4,7 +4,7 @@
 > "El Dolor, Es Dificil De Ocultar."
 ### ***❤️ Espero te encuentres bien 🦁***
 ### 🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
-> Si desea contactarme lo puede hacer sólo por Instagram
+> Si Deseas Contactarme, Contactame Por TikTok.
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
   
@@ -26,11 +26,11 @@
 <br><br>
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MI+REPOSITORIO+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <a href="https://github.com/diegojadibot/SakuraBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBot-MD&theme=merko)</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+REPOSITORIO+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
 <a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=merko)</a>
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=jolly)</a>
