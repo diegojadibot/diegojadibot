@@ -10,6 +10,9 @@
 <p align="center">
 <img src="https://telegra.ph/file/8ade574d21b6da82692fa.jpg" alt="SakuraBotLite-MD" width="900"/>
 </p>
+
+### `✵ 🌻𝑫𝒖𝒅𝒂? 𝑬𝒔𝒄𝒓𝒊𝒃𝒆𝒎𝒆✨`
+<a href="http://wa.me/573004826011" target="blank"><img src="https://img.shields.io/badge/Diego_Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 ------------------
 
 <div align="center">
