@@ -6,7 +6,7 @@
 ### 🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
 > Si Deseas Contactarme, Contactame Por TikTok.
 
-## `🌻𝕾𝖆𝖐𝖚𝖗𝖆-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊-𝕸𝕯✨` 
+## `🌻𝖉𝖎𝖊𝖌𝖔𝖏𝖆𝖉𝖎𝖇𝖔𝖙 - 𝕯𝖎𝖊𝖌𝖔𝕺𝖋𝖎𝖈𝖎𝖆𝖑✨` 
 <p align="center">
 <img src="https://telegra.ph/file/8ade574d21b6da82692fa.jpg" alt="SakuraBotLite-MD" width="900"/>
 </p>
@@ -16,12 +16,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
   
 <a href="https://instagram.com/sakura_bot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-<a href="https://www.youtube.com/@diegobot09" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
+<a href="https://www.youtube.com/@SakuraBotLite09" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="mailto:argumedodie@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-<a href="https://chat.whatsapp.com/C2GZ2Jyh0gSI1v7CLM5yQ7"/>
+<a https://chat.whatsapp.com/L69Ok8LTIJNCTNsJydkXaE"/>
 <img src="https://img.shields.io/badge/🐈_Sakura_Oficial_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
@@ -36,6 +36,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MI+REPOSITORIO+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <a href="https://github.com/diegojadibot/SakuraBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBotLite-MD&theme=merko)</a>
+
+href="https://github.com/diegojadibot/SakuraBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBot-MD&theme=merko)</a>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+REPOSITORIO+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
