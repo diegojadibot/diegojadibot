@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-<a https://chat.whatsapp.com/L69Ok8LTIJNCTNsJydkXaE"/>
+<a "https://chat.whatsapp.com/L69Ok8LTIJNCTNsJydkXaE"/>
 <img src="https://img.shields.io/badge/🐈_Sakura_Oficial_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
