@@ -44,7 +44,7 @@ href="https://github.com/diegojadibot/SakuraBot-MD">![github card](https://githu
 
 <a href="https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=Lobo-Bot-Lite&theme=merko)</a>
 <a href="https://github.com/sinombre913/NigromanteBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=sinombre913&repo=NigromanteBot-MD&theme=merko)</a>
-<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=jolly)</a>
+<a href="https://github.com/AngelPeruFachero/Broly-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AngelPeruFachero&repo=Broly-Bot-MD&theme=jolly)</a>
 <a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=merko)</a>
 <a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=omni)</a>
 
