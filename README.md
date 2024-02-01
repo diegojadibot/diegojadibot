@@ -46,6 +46,5 @@ href="https://github.com/diegojadibot/SakuraBot-MD">![github card](https://githu
 <a href="https://github.com/sinombre913/NigromanteBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=sinombre913&repo=NigromanteBot-MD&theme=merko)</a>
 <a href="https://github.com/AngelPeruFachero/Broly-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AngelPeruFachero&repo=Broly-Bot-MD&theme=jolly)</a>
 <a href="https://github.com/Jostin207/GokuBot-MD-">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin207&repo=GokuBot-MD-&theme=merko)</a>
-<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=omni)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
