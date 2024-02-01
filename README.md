@@ -14,12 +14,12 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
-
-target="blank"><img src="https://img.shields.io/badge/Diego-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   
 <a href="https://instagram.com/sakura_bot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
 <a href="https://www.youtube.com/@SakuraBotLite09" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="mailto:argumedodie@gmail.com">
+
+<a href="http://wa.me/573004826011" target="blank"><img src="https://img.shields.io/badge/Diego_Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
