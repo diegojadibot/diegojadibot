@@ -7,7 +7,7 @@
 
 <p align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=Yorman%20Lopez&description=Hola!,%20Soy%20Diego.%20Me%20Gusta%20Escuchar%20Musica%20Y%20Aprender%20Cosas%20Nuevas.%20Estudio.%20%E2%98%BA%EF%B8%8F&image=https://i.ibb.co/5hVP615/qus.jpg&backgroundColor=%23ecf0f1&instagram=@diego_sakura&pattern=ticTacToe&colorPattern=%23eaeaea&site=%F0%9F%96%A5%EF%B8%8F%20Aprender%20a%20Programar.%20%20%7C%20%20%F0%9F%8E%AE%20Videojuegos.)
+![My card name](https://cardivo.vercel.app/api?name=Diego%20Oficial&description=Hola!,%20Soy%20Diego.%20Me%20Gusta%20Escuchar%20Musica%20Y%20Aprender%20Cosas%20Nuevas.%20Estudio.%20%E2%98%BA%EF%B8%8F&image=https://i.ibb.co/5hVP615/qus.jpg&backgroundColor=%23ecf0f1&instagram=@diego_sakura&pattern=ticTacToe&colorPattern=%23eaeaea&site=%F0%9F%96%A5%EF%B8%8F%20Aprender%20a%20Programar.%20%20%7C%20%20%F0%9F%8E%AE%20Videojuegos.)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
