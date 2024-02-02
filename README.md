@@ -1,10 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
-
-## ¡Hola! 😸 Bienvenido Te Presento Mi Repositorio Oficial✨
-> "El Dolor, Es Dificil De Ocultar."
-### ***❤️ Espero te encuentres bien 🦁***
-### 🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
-> Si Deseas Contactarme, Contactame Por TikTok.
 
 ## `🌻𝖉𝖎𝖊𝖌𝖔𝖏𝖆𝖉𝖎𝖇𝖔𝖙 - 𝕯𝖎𝖊𝖌𝖔𝕺𝖋𝖎𝖈𝖎𝖆𝖑✨` 
 <p align="center">
