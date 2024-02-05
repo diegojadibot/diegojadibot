@@ -39,6 +39,8 @@ href="https://github.com/diegojadibot/SakuraBot-MD">![github card](https://githu
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+REPOSITORIO+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
+<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=merko)</a>
+<a
 <a href="https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=Lobo-Bot-Lite&theme=merko)</a>
 <a href="https://github.com/sinombre913/NigromanteBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=sinombre913&repo=NigromanteBot-MD&theme=merko)</a>
 <a href="https://github.com/AngelPeruFachero/Broly-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AngelPeruFachero&repo=Broly-Bot-MD&theme=jolly)</a>
