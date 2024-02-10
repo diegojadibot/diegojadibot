@@ -39,7 +39,6 @@
 <a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=merko)</a>
 <a
 <a href="https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=Lobo-Bot-Lite&theme=merko)</a>
-<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=merko)</a>
 <a href="https://github.com/AngelPeruFachero/Broly-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AngelPeruFachero&repo=Broly-Bot-MD&theme=jolly)</a>
 <a href="https://github.com/Jostin207/GokuBot-MD-">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin207&repo=GokuBot-MD-&theme=merko)</a>
 
