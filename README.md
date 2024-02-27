@@ -39,6 +39,6 @@
 <a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=merko)</a>
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=merko)</a>
 <a href="https://github.com/AngelPeruFachero/Broly-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AngelPeruFachero&repo=Broly-Bot-MD&theme=jolly)</a>
-<a href="https://github.com/Edwardofc/ATRO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=ATRO-BOT-MD-&theme=merko)</a>
+<a href="https://github.com/Edwardofc/ATRO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=ATRO-BOT-MD&theme=merko)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
