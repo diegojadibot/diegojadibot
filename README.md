@@ -1,7 +1,7 @@
 
-## `🌻𝖉𝖎𝖊𝖌𝖔𝖏𝖆𝖉𝖎𝖇𝖔𝖙 - 𝕯𝖎𝖊𝖌𝖔𝕺𝖋𝖎𝖈𝖎𝖆𝖑✨` 
+## `🧸 Diego - Udefined 📍` 
 <p align="center">
-<img src="https://telegra.ph/file/499dcf451995a816d3db4.jpg" alt="SakuraBotLite-MD" width="900"/>
+<img src="https://telegra.ph/file/499dcf451995a816d3db4.jpg" alt="Bot-Actualizando" width="900"/>
 </p>
 ------------------
 
