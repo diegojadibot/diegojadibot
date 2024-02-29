@@ -1,5 +1,5 @@
 
-## `🧸 Diego - Udefined 📍` 
+## 🧸 Diego - Udefined 📍
 <p align="center">
 <img src="https://telegra.ph/file/499dcf451995a816d3db4.jpg" alt="Bot-Actualizando" width="900"/>
 </p>
