@@ -4,6 +4,16 @@
 <img src="https://telegra.ph/file/499dcf451995a816d3db4.jpg" alt="Bot-Actualizando" width="900"/>
 </p>
 ------------------
+<!-- Mensaje-Own-->
+<b><details><summary>🍧Mensaje Del Creador De SakuraBot</summary></b>  
+- Yo DiegoOficial Les Invito A Darle Una Estrella Al Repositorio SakuraBot, El Bot Es Bueno, Si Te Parece Bueno Puedes Instalarlo Por Termux O Otros Servidores.
+
+- Este Bot Tiene Poco Comandos Pero Divertido, El Bot Se Une Automaticamente Al Grupo Oficial Del Bot, Si El Bot Tiene Una Falla Me La Pueden Desir A Mi Chat O Al Grupo Oficial Del Bot.
+
+- El Bot Tiene 2 Metodos A Activarse A Tu WhatsApp, 1] Mediante Qr, 2] Mediante Un Texto 8 Digitos.
+
+- Siguenos En Todas Nuestras Redes Sociales. Gracias.
+</details>
 
 <p align="center">
 
