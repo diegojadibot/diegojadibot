@@ -4,6 +4,7 @@
 <img src="https://telegra.ph/file/499dcf451995a816d3db4.jpg" alt="Bot-Actualizando" width="900"/>
 </p>
 ------------------
+
 <!-- Mensaje-Own-->
 <b><details><summary>🍧Mensaje Del Creador De SakuraBot</summary></b>  
 - Yo DiegoOficial Les Invito A Darle Una Estrella Al Repositorio SakuraBot, El Bot Es Bueno, Si Te Parece Bueno Puedes Instalarlo Por Termux O Otros Servidores.
