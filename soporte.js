@@ -5,6 +5,6 @@ Número
 +
 
 
-/*Link:*/
+//Link:
 
 https://www.whatsapp.com/contact/noclient?lang=es_LA
