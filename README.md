@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/@SakuraBotLite09" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="mailto:argumedodie@gmail.com">
 
-<a href="http://wa.me/573013482814" target="blank"><img src="https://img.shields.io/badge/Diego_Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573012482694" target="blank"><img src="https://img.shields.io/badge/Diego_Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
