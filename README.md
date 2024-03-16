@@ -1,7 +1,7 @@
 
 ## 🧸 Diego - Udefined 📍
 <p align="center">
-<img src="https://telegra.ph/file/edf2660de6afe0cd7a238.png" alt="Bot-Actualizando" width="900"/>
+<img src="https://telegra.ph/file/fb117ada619d4f54f467f.png" alt="Bot-Actualizando" width="900"/>
 </p>
 ------------------
 
@@ -18,7 +18,7 @@
 
 <p align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=Diego%20Oficial&description=Hola!,%20Soy%20Diego.%20Tengo%20Un%20Bot%20Se%20Llama%20SakuraBotLite-MD%20Bot%20Simple%20Pero%20Divertido.%20%E2%98%BA%EF%B8%8F&image=https://telegra.ph/file/4bb3c8e7b333630a91953.jpg&backgroundColor=%23ecf0f1&instagram=@diego_sakura&pattern=ticTacToe&colorPattern=%23eaeaea&site=%F0%9F%96%A5%EF%B8%8F%20Me%20Gusta%20Ayudar.%20%20%7C%20%20%F0%9F%8E%AE%20Me%20Gusta%20Jugar.)
+![My card name](https://cardivo.vercel.app/api?name=Diego%20Oficial&description=Hola!,%20Soy%20Diego.%20Tengo%20Un%20Bot%20Se%20Llama%20SakuraBotLite-MD%20Bot%20Simple%20Pero%20Divertido.%20%E2%98%BA%EF%B8%8F&image=https://telegra.ph/file/fb117ada619d4f54f467f.png&backgroundColor=%23ecf0f1&instagram=@diego_sakura&pattern=ticTacToe&colorPattern=%23eaeaea&site=%F0%9F%96%A5%EF%B8%8F%20Me%20Gusta%20Ayudar.%20%20%7C%20%20%F0%9F%8E%AE%20Me%20Gusta%20Jugar.)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
