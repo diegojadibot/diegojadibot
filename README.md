@@ -1,7 +1,7 @@
 
 ## 🧸 Diego - Udefined 📍
 <p align="center">
-<img src="https://telegra.ph/file/499dcf451995a816d3db4.jpg" alt="Bot-Actualizando" width="900"/>
+<img src="https://telegra.ph/file/edf2660de6afe0cd7a238.png" alt="Bot-Actualizando" width="900"/>
 </p>
 ------------------
 
